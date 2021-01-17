@@ -1,10 +1,8 @@
-# plotly-challenge
+# HW15-Interactive-Visualizations-and-Dashboards (Plotly Homework)
 
-![GibHub Hosted Page](https://ccc-gh.github.io/web-design-challenge/)
+![GibHub Hosted Page](https://ccc-gh.github.io/plotly-challenge/)
 
-## 15-Interactive-Visualizations-and-Dashboards
-
-## Plot.ly Homework - Belly Button Biodiversity
+## Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
