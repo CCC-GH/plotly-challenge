@@ -1,8 +1,10 @@
 # plotly-challenge
 
-# 15-Interactive-Visualizations-and-Dashboards
+![GibHub Hosted Page](https://ccc-gh.github.io/web-design-challenge/)
 
-# Plot.ly Homework - Belly Button Biodiversity
+## 15-Interactive-Visualizations-and-Dashboards
+
+## Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
@@ -61,18 +63,3 @@ The following task is advanced and therefore optional.
 * Update the chart whenever a new sample is selected.
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
-
-## Deployment
-
-* Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
-
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-## Hints
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
-
-
- 
